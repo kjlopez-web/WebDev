@@ -1,0 +1,42 @@
+/* Footer selector */
+footer {
+  background-color: #cce6ff;
+  color: #003366;
+  font-family: Arial, sans-serif;
+  padding: 10px;
+  border: 1px dashed #003366;
+}
+
+/* ID: notice */
+#notice {
+  width: 80%;
+  margin: 0 auto;
+}
+
+/* Class: headline with dotted line */
+.headline {
+  color: #4b0082;
+  border-bottom: 2px dotted #4b0082;
+  padding-bottom: 5px;
+}
+
+/* h1 selector */
+h1 {
+  font-family: sans-serif;
+  font-size: 4em;
+  background-color: rgba(173, 216, 230, 0.5);
+  text-shadow: 2px 2px 5px gray;
+  padding: 10px;
+}
+
+/* ID: section */
+#section {
+  font-family: Arial, sans-serif;
+  font-size: small;
+  color: red;
+  background-color: white;
+  width: 80%;
+  box-shadow: 3px 3px 6px gray;
+  padding: 10px;
+  margin: 20px auto;
+}
