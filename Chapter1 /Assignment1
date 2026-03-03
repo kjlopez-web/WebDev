@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Favorite Musical Group</title>
+</head>
+<body>
+
+  <h1>Take 6</h1>
+
+  <h2>Members of the Group</h2>
+  <ul>
+    <li>Claude McKnight</li>
+    <li>Mark Kibble</li>
+    <li>Joel Kibble</li>
+    <li>Dave Thomas</li>
+    <li>Alvin Chea</li>
+    <li>Khristian Dentley</li>
+  </ul>
+
+  <p>
+    Official Website:
+    <a href="https://www.take6.com" target="_blank">
+      Take 6 Official Website
+    </a>
+  </p>
+
+  <h2>Favorite Albums</h2>
+
+  <dl>
+    <dt><strong>Join the Band</strong></dt>
+    <dd>
+      This album blends gospel, jazz, and R&B with incredible vocal harmonies.
+      I appreciate the creativity and musical excellence displayed in every track.
+    </dd>
+
+    <dt><strong>Beautiful World</strong></dt>
+    <dd>
+      This release highlights the group’s spiritual message while maintaining
+      complex jazz arrangements. The harmonies are powerful and inspiring.
+    </dd>
+
+    <dt><strong>So Much 2 Say</strong></dt>
+    <dd>
+      This album combines smooth jazz elements with meaningful lyrics.
+      It shows their vocal skill and dedication to faith-based music.
+    </dd>
+  </dl>
+
+</body>
+</html>
