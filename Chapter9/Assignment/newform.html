@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>New Form</title>
+</head>
+
+<body>
+
+<h1>Sign Up</h1>
+
+<form action="https://webdevbasics.net/scripts/demo.php" method="post">
+
+<!-- Username -->
+<label>Username:</label>
+<input type="text" name="username" maxlength="30"><br><br>
+
+<!-- Password -->
+<label>Password:</label>
+<input type="password" name="pword"><br><br>
+
+<!-- Favorite Day -->
+<p>Favorite Day:</p>
+<input type="radio" name="day" value="Mon"> Monday
+<input type="radio" name="day" value="Tue"> Tuesday
+<input type="radio" name="day" value="Fri"> Friday<br><br>
+
+<!-- Social Media -->
+<label>Favorite Social Network:</label><br>
+<select name="social">
+<option>Instagram</option>
+<option>TikTok</option>
+<option>Twitter</option>
+<option>Snapchat</option>
+</select><br><br>
+
+<!-- Shipping Address -->
+<fieldset>
+<legend>Shipping Address</legend>
+
+Address Line 1: <input type="text"><br><br>
+Address Line 2: <input type="text"><br><br>
+City: <input type="text"><br><br>
+State: <input type="text"><br><br>
+Zip: <input type="text"><br><br>
+
+</fieldset>
+
+<!-- Hidden -->
+<input type="hidden" name="userid" value="12345">
+
+<!-- Image Button -->
+<input type="image" src="signup.gif" alt="Sign Up">
+
+</form>
+
+</body>
+</html>
